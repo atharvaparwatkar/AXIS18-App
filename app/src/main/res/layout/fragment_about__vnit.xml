@@ -1,0 +1,46 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#232c3d"
+    android:weightSum="1"
+    tools:context="com.developer.kartikraut.axis.About.About_VNIT">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/abt_vnit_img"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/vnitsmin"
+            android:scaleType="fitXY"
+            android:contentDescription="@string/todo"/>
+
+   <!--     <TextView
+            android:id="@+id/abt_vnit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/abt_vnit"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            android:textColor="@color/white"
+            android:layout_marginTop="@dimen/text_margin_top"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp">
+            </TextView>      -->
+
+        <WebView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/abt_vnit_text"
+            android:background="@color/prehomebackd"></WebView>
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

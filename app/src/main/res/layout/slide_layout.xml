@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/prehomebackd">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/speaker_image"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/axislogo2"
+        app:civ_border_width="5dp"
+        app:civ_border_color="#334d4d"/>
+
+    <TextView
+        android:id="@+id/speaker_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:text="SPEAKER NAME"
+        android:layout_below="@+id/speaker_image"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/speaker_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/speaker_heading"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/colorTransparentWhite"
+        android:text="SPEAKER DESCRIPTION"
+        android:padding="@dimen/activity_small_margin"
+        android:textSize="15sp"/>
+
+</RelativeLayout>

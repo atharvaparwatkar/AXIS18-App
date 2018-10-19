@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cvCategory"
+    android:layout_marginBottom="@dimen/margin10"
+    android:layout_marginRight="@dimen/side_margin"
+    android:layout_marginLeft="@dimen/side_margin"
+    android:background="#2f3a4e"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?android:attr/selectableItemBackground">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/cardviewBkgd">
+
+        <ImageView
+            android:id="@+id/ivCategory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:foregroundGravity="center"
+            android:scaleType="fitCenter"
+            app:srcCompat="@mipmap/ic_axis_app_logo"
+            android:contentDescription="@string/todo"/>
+
+        <TextView
+            android:id="@+id/tvCategory"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/ivCategory"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white"
+            android:gravity="center"
+            tools:text="@string/category"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_phone_mail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#c0000000"
+    tools:context="com.developer.kartikraut.axis.Contact.Phone_Mail">
+
+    <View
+        android:id="@+id/view_Screen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></View>
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/civ_Photo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="22dp"
+        android:src="@mipmap/ic_axis_app_logo"
+        app:civ_border_width="5dp"
+        app:civ_border_color="#334d4d"/>
+
+
+    <LinearLayout
+        android:id="@+id/ll_call_mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/civ_Photo">
+
+        <ImageView
+            android:id="@+id/ivCall"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="85dp"
+            android:layout_toLeftOf="@+id/civ_Photo"
+            android:layout_toStartOf="@+id/civ_Photo"
+            android:src="@drawable/phone_circle_icon2" />
+
+        <ImageView
+            android:id="@+id/ivMail"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_alignTop="@+id/ivCall"
+            android:layout_marginLeft="100dp"
+            android:layout_toEndOf="@+id/civ_Photo"
+            android:layout_toRightOf="@+id/civ_Photo"
+            android:src="@drawable/gmail" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#c0000000"
+    tools:context="com.developer.kartikraut.axis.Events.GoToLogin">
+
+    <View
+        android:id="@+id/view_Screen1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></View>
+
+    <TextView
+        android:id="@+id/tv_instruc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/login_signup_txt1"
+        android:textColor="#ffffff"
+        android:textSize="25sp"/>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/log_button"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/tv_instruc"
+        android:layout_marginTop="60dp"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@color/reg_btn_bckd"
+        app:cardCornerRadius="25dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tv_log"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/login"
+                android:textColor="@color/white"
+                android:layout_centerInParent="true"
+                android:textSize="20sp"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/sign_button"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/log_button"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@color/reg_btn_bckd"
+        app:cardCornerRadius="25dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tv_sign"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/signup"
+                android:textColor="@color/white"
+                android:layout_centerInParent="true"
+                android:textSize="20sp"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

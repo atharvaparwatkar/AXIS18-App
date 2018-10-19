@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "657828190673",
+    "firebase_url": "https://axis-c8574.firebaseio.com",
+    "project_id": "axis-c8574",
+    "storage_bucket": "axis-c8574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657828190673:android:f52e6e7a9c0332fb",
+        "android_client_info": {
+          "package_name": "com.developer.kartikraut.axis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657828190673-g6gv5blvibq3he3dg903qrh90fe3s2b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.kartikraut.axis",
+            "certificate_hash": "7d77b021276cb33eb4f4a09eec741e470d0f7197"
+          }
+        },
+        {
+          "client_id": "657828190673-de4ckivkvaqu4iem4reu3skprk4l1l6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp1q8PCbLzaAMn2HxxNmOCCMvx1SI9hLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657828190673-de4ckivkvaqu4iem4reu3skprk4l1l6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_action_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about_black_24dp"
+            android:title="@string/nav_about" />
+
+        <item
+            android:id="@+id/nav_inaug"
+            android:icon="@drawable/ic_menu_attractions"
+            android:title="@string/inaugration"></item>
+
+        <item
+            android:id="@+id/nav_techi"
+            android:title="Techie Nite"
+            android:icon="@drawable/star_circle"
+            />
+
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_menu_events"
+            android:title="@string/nav_events" />
+        <item
+            android:id="@+id/nav_workshops"
+            android:icon="@drawable/menu_workshops"
+            android:title="@string/nav_workshops" />
+        <item
+            android:id="@+id/nav_exhib"
+            android:icon="@drawable/exhibition_icon1"
+            android:title="@string/exhibitions" />
+
+        <item
+            android:id="@+id/nav_talks"
+            android:icon="@drawable/ic_action_talks"
+            android:title="@string/talks"/>
+
+        <item
+            android:id="@+id/nav_guest"
+            android:icon="@drawable/ic_action_guest"
+            android:title="@string/guest_lectures"/>
+
+        <item
+            android:id="@+id/nav_summit"
+            android:title="TNS"
+            android:icon="@drawable/meeting"/>
+
+        <item
+            android:id="@+id/nav_social_initiatives"
+            android:icon="@drawable/ic_social_initiatives"
+            android:title="@string/nav_social_initiatives" />
+
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/ic_schedule"
+            android:title="@string/nav_schedule" />
+
+        <item
+            android:id="@+id/nav_going"
+            android:icon="@drawable/ic_goingto_black_24dp"
+            android:title="@string/nav_going_to" />
+
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_menu_map"
+            android:title="@string/nav_map" />
+
+        <item
+            android:id="@+id/nav_sponsors"
+            android:icon="@drawable/ic_menu_sponsors"
+            android:title="@string/nav_sponsors" />
+
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/ic_menu_contact_us"
+            android:title="@string/nav_contact_us" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_menu_logout"
+            android:title="@string/nav_logout" />
+    </group>
+</menu>

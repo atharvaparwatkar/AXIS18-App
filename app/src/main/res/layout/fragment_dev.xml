@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fl_dev"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.developer.kartikraut.axis.Contact.DevFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_dev"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layoutAnimation="@anim/layout_anim_slide_right">
+    </android.support.v7.widget.RecyclerView>
+
+</FrameLayout>

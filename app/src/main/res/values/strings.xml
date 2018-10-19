@@ -1,0 +1,604 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">AXIS 18</string>
+    <string name="axis">AXIS</string>
+    <string name="vnit">VNIT</string>
+    <string name="guest">guest@axisvnit.org</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="eve_det">Event Details</string>
+    <string name="eve_man">Event Managers</string>
+    <string name="apj">Honorable Ex-President of India Dr. APJ Kalam inaugurating Axis-14 at VNIT Nagpur</string>
+    <string name="login_signup_txt1">To register for the event please login or signup</string>
+
+    <string name="abt_axis">AXIS is the annual technical festival of the Visvesvaraya National Institute of Technology, Nagpur.
+        Traditionally held in the month of September or early October, AXIS has grown to become one of the largest
+        technical festivals in India and the largest in Central India.\n\n With a plethora of events encompassing a wide variety of fields like Automation and Robotics, Construction and Design, Software and Electronics, Management, School Events and many more, AXIS attracts some of the brightest and most creative young minds from all over India. Featuring some big names like NDRF and DRDO, AXIS Exhibitions are an excellent source of erudition. Various workshops are also organized every year, under expert guidance, to keep students up to date with latest technology.\n\nStarted in 2004 after merging
+        two traditionally held festivals - the IEEE Expressions and Odyssey, AXIS has come a long way from its modest beginnings
+        and annually attracts over 25,000 school and college students from different parts of the country.\n</string>
+
+    <string name="inaug">The most awaited inaugural addresses of AXIS have been delivered by some of the most distinguished
+                personalities in the field of science and technology. Known for being interactive, inspiring and instigating,
+                they provide students an opportunity to closely interact with their role models.\n\n
+                AXIS\'14 received the most auspicious inauguration by Dr. APJ Abdul Kalam (late Former President of India and founder
+                of India\'s missile program) Dr. Kalam\'s motivating oration was aimed at moulding the leaders of tomorrow, and his unforgettable
+                words - \"I will fly, I will fly, I will fly\" remain etched in the memories of every person present in the audience on that
+                memorable day.\n\n AXIS\'15 saw Dr. Dinesh Keskar(VNIT Alumnus and Senior Vice President, Boeing Commercial Airplanes) revisit his
+                alma mater to inaugurate its technical festival which has grown in leaps and bounds since his time. As an engineer himself,
+                Dr. Keskar delivered an extremely relatable depiction of his journey from a VNIT graduate to working under Neil Armstrong,
+                and instilled in the audience a sense of purpose and a firm belief that they have it in themselves to scale the pinnacles of success."
+    </string>
+
+    <string name="abt_vnit">Visvesvaraya National Institute of Technology, Nagpur (abbreviated VNIT Nagpur), also referred to as NIT Nagpur,
+        formerly Regional College of Engineering, Nagpur (REC) and Visvesvaraya Regional College of Engineering, Nagpur (VRCE),
+        is a premier public engineering and research institution in India. It is located in Nagpur, Maharashtra, in central India.
+        The institute has been consistently ranked among the best fifteen engineering colleges in India.It was established in June 1960 +
+        by the Government of India and later named in honor of engineer, planner and statesman, Sir Mokshagundam Visvesvaraya.
+        \n\nVNIT Nagpur is federally-funded and belongs to the National Institutes of Technology (NIT) system. In 2007, the institute was
+        conferred the status of Institute of National Importance (INI) alongside other NITs and IITs by an Act of Parliament of India.
+        The institute awards bachelors, masters and doctoral degrees in engineering, technology and architecture.\n\n
+    </string>
+
+    <string name="ethical">AXIS, VNIT Nagpur conducted a full day workshop on Ethical Hacking and Cyber Security on 5th November 2017.
+        The workshop was conducted by Mahesh Rakheja, technical public speaker from Nagpur. Mahesh Rakheja is the President and Co-founder of
+        Google Developer Group, Nagpur. He has worked with various law enforcement departments of Turkey, Indian Army, State Intelligence and
+        Police Department and has trained students in India, Germany, Australia, Angola, Nigeria, Turkey,etc..
+        The students learned about Cyber Ethics, Information Gathering and Scanning Methodologies, Trojans, Backdoors, Google Hacking, Wireless
+        Hacking and Security, System and Network Hacking, Email Hacking and Security,etc.. Many students as well as professionals participated in the workshop.
+    </string>
+
+
+    <string name="nav_home">Home</string>
+    <string name="nav_attractions">Attractions</string>
+    <string name="nav_events">Events</string>
+    <string name="nav_workshops">Workshops</string>
+    <string name="nav_social_initiatives">Social Initiatives</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_sponsors">Sponsors</string>
+    <string name="nav_developers">Developers</string>
+    <string name="nav_contact_us">Contact Us</string>
+    <string name="nav_logout">Logout</string>
+    <string name="action_settings">Settings</string>
+    <string name="team">Team</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="AIzaSyCaSHMOo6OmcMtm4WXndEsYolPni555yJ8">google_maps_key</string>
+    <string name="events">Events</string>
+    <string name="workshops">Workshops</string>
+    <string name="exhibitions">Exhibitions</string>
+    <string name="nav_about">About</string>
+    <string name="nav_going_to">Going to</string>
+    <string name="nav_ws_exhib">Workshops and Exhibitions</string>
+    <string name="register">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signup">Signup</string>
+    <string name="category">Category</string>
+
+    <!-- Coll  -->
+    <string name="coll_event">COLL-IN-COLL</string>
+    <string name="coll1">MAYUR</string>
+    <string name="coll1num"><b><u>+91-8055155345</u></b></string>
+    <string name="coll2">SIDDHARTHA</string>
+    <string name="coll2num"><b><u>+91-7767049792</u></b></string>
+    <string name="coll3">SANKET</string>
+    <string name="coll3num"><b><u>+91-7387311052</u></b></string>
+    <string name="coll4">SOWMYA</string>
+    <string name="coll4num"><b><u>+91-9049568241</u></b></string>
+    <string name="coll_det">
+        Bag lucrative industry internships/projects with some of the biggest names in engineering by
+        coming up with creative solutions to the problem statements presented, and gain an insight into how things work in the industrial world.
+    </string>
+
+
+    <!--kart-->
+    <string name="kart_event">KARTAVYA</string>
+    <string name="kart1">KAMIL</string>
+    <string name="kart1num"><b><u>+91-9158811213</u></b></string>
+    <string name="kart2">ANUSHA</string>
+    <string name="kart2num"><b><u>+91-9177985424</u></b></string>
+    <string name="kart3">ANKIT</string>
+    <string name="kart3num"><b><u>+91-8554858450</u></b></string>
+    <string name="title_activity_kartavya">Kartavya</string>
+    <string name="kart_det">
+        The world today is in need of compassion.There are too many people whose problems
+        go unheard, too many who don’t get enough opportunities to live the life they
+        deserve.This needs to change.As an educated young mind of the nation, be the driver of
+        this change and contribute to the greater good.Address the challenges faced by the
+        world today with your creative ideas and strengthen our sense of shared humanity and
+        bring a light to other’s lives!
+        This event brings to you real world problems in the form of problem statements.Think
+        out of the box and make this world a better place for you,me and the entire human race!
+    </string>
+
+    <!--Aquahunt-->
+    <string name="aquahunt_event">AQUAHUNT</string>
+    <string name="aqua1">AMEY</string>
+    <string name="aqua1num"><b><u>+91-8879710910</u></b></string>
+    <string name="aqua2">SHUBHAM</string>
+    <string name="aqua2num"><b><u>+91-9637328065</u></b> </string>
+    <string name="aqua3">PRITAM</string>
+    <string name="aqua3num"><b><u>+91-7038232710</u></b></string>
+    <string name="aqua_det">
+        Show off your robotics skills in this water robotics event! Challenge yourself and build an
+        aquatic robot that can operate underwater. Manoeuvre your robot as it completes
+        complicated tasks in this unique aquatic tournament.
+    </string>
+
+
+    <!--techno-->
+    <string name="techno_docx_event">TECHNODOCX</string>
+    <string name="techno1">ANUDEEP</string>
+    <string name="techno1num"><b><u>+91-9420713836</u></b></string>
+    <string name="techno2">SAHITHI</string>
+    <string name="techno2num"><b><u>+91-9177300538</u></b></string>
+    <string name="techno_det">
+        Research is the first step towards unearthing the unknown.It is an investment in the
+        growth of future technologies and applications.Techno.docx brings a platform for all
+        budding researchers to showcase their newest ideas to the world.Present your original
+        research to a panel of distinguished judges and initiate a change in the industry.
+    </string>
+
+    <!--auto-->
+    <string name="auto_event">AUTOBOT</string>
+    <string name="auto1">CHAITANYA</string>
+    <string name="auto1num"><b><u>+91-9167313246</u></b> </string>
+    <string name="auto2">PUSHKAR</string>
+    <string name="auto2num"><b><u>+91-7756881415</u></b></string>
+    <string name="auto_det">
+        Design and build your own robots which can autonomously navigate
+        through a labyrinth of obstacles and figure out the shortest and simplest path!
+    </string>
+
+    <!--mecha-->
+    <string name="mecha_event">MECHATRYST</string>
+    <string name="mecha1">M. FARAZ</string>
+    <string name="mecha1num"><b><u>+91-8830423995</u></b></string>
+    <string name="mecha2">HARENDER</string>
+    <string name="mecha2num"><b><u>+91-7620795792</u></b></string>
+    <string name="mecha3">M. SAMI</string>
+    <string name="mecha3num"><b><u>+91-9561484281</u></b></string>
+    <string name="mecha_det">
+        Experience the thrill of racing in this ultimate IC engine car racing event. The revving of
+        the engine, the obstacles on the path and the roar of victory are enough to give you an
+        adrenaline rush. Be a part of this enthralling journey as high speed cars compete against
+        each other to find their way to glory. Let the race begin!
+    </string>
+
+
+    <!--saviour-->
+    <string name="savio_event">ROBO SAVIOUR</string>
+    <string name="savio1">ANKIT</string>
+    <string name="savio1num"><b><u>+91-9576455154</u></b></string>
+    <string name="savio2">ROHIT</string>
+    <string name="savio2num"><b><u>+91-8412961951</u></b></string>
+    <string name="savio_det">
+        Robots are not just lean, mean killing machines. They are instrumental in safety and
+        rescue as well! Build your own Robo-Saviour which can carry out tasks such as maneuver
+        through challenging terrain, lift, move, pick up, carry and much more!
+    </string>
+
+    <!--robo-->
+    <string name="robo_event">ROBOWARS</string>
+    <string name="robo1">SAURABH</string>
+    <string name="robo1num"><b><u>+91-9594328719</u></b></string>
+    <string name="robo2">DIVYANSH</string>
+    <string name="robo2num"><b><u>+91-9145539281</u></b></string>
+    <string name="robo3">YASH</string>
+    <string name="robo3num"><b><u>+91-8108485382</u></b></string>
+    <string name="robo4">YOGESH</string>
+    <string name="robo4num"><b><u>+91-8108000272</u></b></string>
+    <string name="robo_det">
+        Get ready to destroy your opponents in this fierce battle of robots. Design and create a
+        manually operated, wired/wireless robot that will conquer all enemies. Gather your courage
+        for the victor will be the one that annihilates all!
+    </string>
+
+
+    <!--Aquaskylark-->
+    <string name="aquasky_event">AQUASKYLARK</string>
+    <string name="sky1">VAMSI</string>
+    <string name="sky1num"><b><u>+91-9492405651</u></b></string>
+    <string name="sky2">MODERESA</string>
+    <string name="sky2num"><b><u>+91-7030524635</u></b></string>
+    <string name="sky3">JINKA</string>
+    <string name="sky3num"><b><u>+91-7981095257</u></b></string>
+    <string name="sky_det">
+        Design your own rocket to shoot up in the sky like a rebel! Exciting? It will be, for sure
+        when you can fabricate your own water rocket to go up the space and probably befriend a
+        few aliens! No, you do not need to be an aerospace engineer to participate. Just build a
+        simple water-propelled rocket, and there you go! Don’t worry, it’s not ROCKET SCIENCE!
+    </string>
+
+
+    <!--crepido-->
+    <string name="crepido_event">CREPIDO</string>
+    <string name="akshay">PRANAVI</string>
+    <string name="aknum"><b><u>+91-8686355234</u></b> </string>
+    <string name="twinkle">AKSHAR</string>
+    <string name="twnum"><b><u>+91-9978514443</u></b></string>
+    <string name="pranav">ROHIT</string>
+    <string name="prnum"><b><u>+91-7875415243</u></b></string>
+    <string name="cre_det">
+        Has the world reckoned bridges Golden Gate and Sydney Harbor intrigued you? Can u build an
+        architecture of similar worth? Take up the challenge and embellish a solid, secure bridge
+        from flimsy popsicle sticks and simple glue. Outweigh this structure with an unlimited load 
+        to check your mechanical proficiency. Remember…triangles are strong!
+    </string>
+
+    <!--devise-->
+    <string name="devise_event">DEVISE</string>
+    <string name="devise1">MANSI</string>
+    <string name="devise1num"><b><u>+91-8275248592</u></b></string>
+    <string name="devise2">ADITYA</string>
+    <string name="devise2num"><b><u>+91-9665345145</u></b></string>
+    <string name="devise3">SHASHANK</string>
+    <string name="devise3num"><b><u>+91-7771048056</u></b></string>
+    <string name="devise4">KHUSHBOO</string>
+    <string name="devise4num"><b><u>+91-7769839907</u></b></string>
+    <string name="devise_det">
+        Think you have the caliber to generate innovative and groundbreaking solutions? Have the thought of re-creating the world? Then devise is the place for you! This is your chance to test your mettle against other creative minds and know where you stand among your peers. If you think your design solutions are more efficient than others, then test yourself to design the most inspired solutions for the design problem statements we give you. Delve deep into your creative core and originate the most unexpected panacea to these problems.
+    </string>
+
+    <!--para-->
+    <string name="para_event">PARADEIGMA</string>
+    <string name="para1">HAIDER</string>
+    <string name="para1num"><b><u>+91-9527547252</u></b> </string>
+    <string name="para2">MOUNIKA</string>
+    <string name="para2num"><b><u>+91-8500079894</u></b> </string>
+    <string name="para_det">
+        An impromptu event, with just the prerequisite of a visionary mind and bit of luck, is here for all the budding engineers. This is the event to be at if applying your engineering skills to solve problems gives you a high. Innovate a model for given problem statement and win exciting prizes! The more unprepared you arrive, the better your chances at winning! An extempore event for on the spot thinkers.
+    </string>
+
+    <!--turbo-->
+    <string name="turbo_event">TURBO FLUX</string>
+    <string name="turbo1">A. S. KRISHNA</string>
+    <string name="turbo1num"><b><u>+91-7382101928</u></b></string>
+    <string name="turbo2">YELMELWAR</string>
+    <string name="turbo2num"><b><u>+91-9494097899</u></b></string>
+    <string name="turbo3">M. S. KRISHNA </string>
+    <string name="turbo3num"><b><u>+91-9145539018</u></b></string>
+    <string name="turbo_det">
+        Have an aptitude for physics? Can you construct your own turbine? Time to bring out the Bernoulli in you and use your hydraulics knowledge to rotate a turbine. Decide on the pipe you will use to pass water through all obstacles. Do check for the path that will make water pass with the greatest speed. How high can your turbine uplift water? Have fun while you master!
+    </string>
+
+    <!--baker-->
+    <string name="baker_event">221B BAKER STREET</string>
+    <string name="baker1">HRUSHIKESH</string>
+    <string name="baker1num"><b><u>+91-7715987343</u></b></string>
+    <string name="baker2">SAMAY</string>
+    <string name="baker2num"><b><u>+91-8237877685</u></b></string>
+    <string name="baker_det">
+        The mind-boggling origin of something is what we can’t decipher easily. Challenge your
+        mind and find what is the genesis of your intellect. Bakers Street is the ultimate maze for
+        you. This mind-boggling maze tests your astute observation skills, deductive
+        reasoning and logical thinking. With Google as your Dr Watson encounter nail-biting situations
+        as you find your way through this labyrinth for at the end only one will be crowned SHERLOCK!
+        Find the quizzer in you and see you soon there vouching for becoming the SHERLOCK!!
+    </string>
+
+    <!--freako-->
+    <string name="freak_event">FREAK-O-MATRIX</string>
+    <string name="freako1">SRUJITHA</string>
+    <string name="freako1num"><b><u>+91-7032094547</u></b></string>
+    <string name="freako2">NIKHIL</string>
+    <string name="freako2num"><b><u>+91-9422817708</u></b></string>
+    <string name="freako3">B. S. GAYATHRI </string>
+    <string name="freako3num"><b><u>+91-7032534966</u></b></string>
+    <string name="freako_det">
+        Are you ready to challenge the numerary side of your brain? Do numbers,abstruse
+problems, the origin of numbers amaze you? Freak-o-Matrix is the one for you.Find yourself solving
+intricate puzzles with a degree of toughness ascending with every hurdle only at Freak-o-matrix.
+    </string>
+
+    <!--sutra-->
+    <string name="sutra_event">GAMESUTRA</string>
+    <string name="sutra1">ABHIJEET</string>
+    <string name="sutra1num"><b><u>+91-9769959343</u></b></string>
+    <string name="sutra2">MOHIT</string>
+    <string name="sutra2num"><b><u>+91-9822940514</u></b></string>
+    <string name="sutra_det">
+        Have a knack for playing games and getting absorbed into the abstruse yet enthralling
+world of games…..AXIS’18 offers you the relishing experience of gaming...See you on the
+points table…!!
+    </string>
+
+    <!--informals-->
+    <string name="informal_event">INFORMALS</string>
+    <string name="infor_event">INFORMALS</string>
+    <string name="infor1">M. S. CHANDANA</string>
+    <string name="infor1num"><b><u>+91-8806989777</u></b></string>
+    <string name="infor2">MANEESH</string>
+    <string name="infor2num"><b><u>+91-8551997168</u></b></string>
+    <string name="informals_det">
+        Forget your worries and delve into fun games at AXIS’18.Enjoy games like foosball and
+        build memories you will cherish for long…!!!
+    </string>
+
+    <!--wall-->
+    <string name="wall_event">WALLSTREET</string>
+    <string name="wall1">ANISH</string>
+    <string name="wall1num"><b><u>+91-7028813480</u></b></string>
+    <string name="wall2">AMAN</string>
+    <string name="wall2num"><b><u>+91-7775094904</u></b></string>
+    <string name="wall3">RUTUJA</string>
+    <string name="wall3num"><b><u>+91-7219196604</u></b></string>
+    <string name="wall4">MAHENDRA</string>
+    <string name="wall4num"><b><u>+91-9493704738</u></b></string>
+    <string name="wall_det">
+        Wallstreet,the famous lane in New York,now is a metonym for the biggest markets of the
+        world,the financial markets of the United States.Want to experience the same stock
+        trading?AXIS brings to you WallStreet….Try your hand at stocks and find are you intuitive
+        enough for the stock market!!
+    </string>
+
+    <!--boss-->
+    <string name="boss_event">WHO\'S THE BOSS</string>
+    <string name="boss1">ADARSH</string>
+    <string name="boss1num"><b><u>+91-8291108103</u></b></string>
+    <string name="boss2">ILESH</string>
+    <string name="boss2num"><b><u>+91-9960549425</u></b></string>
+    <string name="boss3">APURVA</string>
+    <string name="boss3num"><b><u>+91-7038501676</u></b></string>
+    <string name="boss_det">
+        Analyse your ability and make decisions worth being proud of.Make this year’s “Who’s
+        the boss” your genesis of success and savour the success at AXIS’18 ….!!
+    </string>
+
+    <!--js-->
+    <string name="js_event">JUNIOR SCIENTIST</string>
+    <string name="model">MODEL-O-THON</string>
+    <string name="quiz">EXQUIZIT</string>
+    <string name="cata">CATAPULTIKON</string>
+    <string name="mun">MODEL UNITED NATIONS</string>
+    <string name="matha">MATH-A-MAZE</string>
+    <string name="dexter">DEXTER</string>
+    <string name="js1">SHYAMLI</string>
+    <string name="js1num"><b><u>+91-7588740817</u></b></string>
+    <string name="js2">SHUBHAM</string>
+    <string name="js2num"><b><u>+91-9545764277</u></b></string>
+    <string name="js3">VAIBHAV</string>
+    <string name="js3num"><b><u>+91-7028438413</u></b></string>
+    <string name="model_det">
+        It is one of the most awaited scientific model making competition.
+        It is a unique opportunity for creative thinkers and innovative pioneers.
+    </string>
+
+    <string name="cata_det">
+        It is an event where you have to design a catapult to destroy enemy targets.
+        This event aims at developing engineering skills amongst students.
+    </string>
+
+    <string name="matha_det">
+        It is an ingenious event to test mathematical skill of school students.
+        They have to solve the most challenging maths problems in a limited time.
+    </string>
+
+    <string name="quiz_det">
+        One of the most challenging quiz competition for school students.
+        It is a place where the sharpest minds compete to prove themselves the best.
+    </string>
+
+    <string name="mun_det">
+        It is a school level simulation of United Nations. It provides students an opportunity to be delegate of a nation.
+    </string>
+
+    <!--dexter-->
+    <string name="dexter_event">DEXTER</string>
+    <string name="dex1">SUMIT</string>
+    <string name="dex1num"><b><u>+91-9664181239</u></b></string>
+    <string name="dex2">P. PRIYANKA</string>
+    <string name="dex2num"><b><u>+91-7030152313</u></b></string>
+    <string name="dex3">SHASHANK</string>
+    <string name="dex3num"><b><u>+91-9757235823</u></b> </string>
+    <string name="dex4">VAIBHAV</string>
+    <string name="dex4num"><b><u>+91-9922383872</u></b> </string>
+    <string name="dex5">VAISHNAVI</string>
+    <string name="dex5num"><b><u>+91-8275534607</u></b> </string>
+    <string name="dex6">SANKET</string>
+    <string name="dex6num"><b><u>+91-7775938359</u></b></string>
+    <string name="dex_det">
+        Children are the genesis source for a progressive future of our nation. To uncover the latent talent of school children, AXIS conducts DEXTER every year, which is an All India Aptitude Test, conducted in two levels. The first level shortlists students, who are invited to VNIT to compete for a few more finesse contests. The student showing dexterity and proficiency throughout the event becomes India’s next DEXTER.
+    </string>
+
+    <!--anim-->
+    <string name="anim_event">ANIMAZIONE</string>
+    <string name="anim1">SRICHANDRA</string>
+    <string name="anim1num"><b><u>+91-9849046579</u></b></string>
+    <string name="anim2">SRILEKHA</string>
+    <string name="anim2num"><b><u>+91-9604307572</u></b> </string>
+    <string name="anim3">SANDEEP</string>
+    <string name="anim3num"><b><u>+91-9604307572</u></b></string>
+    <string name="anim_det">
+        Do you think you can give life to your ideas through superb animations? Then this event
+        is for you! Channel your creative energy and get ready to animate your thoughts.
+        Create your own innovative animation videos on the themes given and let your ideas
+        take on a whole new dimension!
+    </string>
+
+    <!--crypto-->
+    <string name="crypto_event">CRYPTOCRUX</string>
+    <string name="crypto1">PRAGATI</string>
+    <string name="crypto1num"><b><u>+91-9930198202</u></b></string>
+    <string name="crypto2">SHREYAS</string>
+    <string name="crypto2num"><b><u>+91-9967585092</u></b></string>
+    <string name="crypto_det">
+        Unleash your inner genius and participate in this unique battle of wits!
+        Cryptocrux involves a one of a kind encryption-decryption quiz to test your problem
+        solving abilities.The ‘crux’ of the game is to observe and think. So put on your thinking
+        caps and prove your worth!
+    </string>
+
+    <!--inso-->
+    <string name="inso_event">INSOMNIA</string>
+    <string name="inso1">ANISH</string>
+    <string name="insoo1num"><b><u>+91-9422442613</u></b> </string>
+    <string name="insoo2">APEKSHA</string>
+    <string name="insoo2num"><b><u>+91-9545967237</u></b></string>
+    <string name="inso_det">
+        Show off your coding skills in this adrenaline filled all-night programming contest!
+        Challenge yourself with complicated problems designed to test your programming skills
+        amongst hundreds others. Be ready with your cup of java and midnight snacks to pull
+        an all-nighter and show everyone who’s the boss!
+    </string>
+
+    <!--poster-->
+    <string name="poster_event">POSTEROLIC</string>
+    <string name="poster_det">
+        It is said that “A picture is worth a thousand words”. Same can be said about posters. A
+        poster, if designed creatively can convey complex ideas in clear and concise manner to
+        people of all strata of society.
+        Axis brings a platform for all imaginative geniuses to display their ideas in the form of
+        posters.
+        Present your unique representations of the problem statement in the form of rich visual
+        displays. Get your creative juices flowing and show off your design skills to bag
+        attractive prizes!
+    </string>
+
+    <!--brain-->
+    <string name="brain_event">BRAIN STORM</string>
+    <string name="brain1">ANUSHREE</string>
+    <string name="brain1num"><b><u>+91-7841956932</u></b></string>
+    <string name="brain2">SHUBHAM</string>
+    <string name="brain2num"><b><u>+91-8087806702</u></b></string>
+    <string name="brain_storm_det">
+        Quizzing in itself is an art...worth possessing and showcasing.AXIS’18 provides you the
+        platform to showcase your talent in quizzing.Are you set to wake up your brain and find its
+        genesis!!!
+    </string>
+
+    <!--laser-->
+    <string name="laser_event">LASER LITT</string>
+    <string name="laser1">AVDHOOT</string>
+    <string name="laser1num"><b><u>+91-9422202349</u></b></string>
+    <string name="laser2">PRAKHAR</string>
+    <string name="laser2num"><b><u>+91-8551961945</u></b></string>
+    <string name="laser_det">
+        Playing with lasers was a thing of the past…..Delving in intricate puzzles with lasers is
+        what you need to do now.Enjoy this event only in its second year of inception at AXIS’18….See
+        you there racking your brain..!!
+    </string>
+
+    <!--electro-->
+    <string name="electro_event">ELECTROBLITZ</string>
+    <string name="electro1">SUKANYA</string>
+    <string name="electro1num"><b><u>+91-9168928481</u></b></string>
+    <string name="electro2">SHUBHAM</string>
+    <string name="electro2num"><b><u>+91-9422817708</u></b></string>
+    <string name="electro_det">
+        Think you know all there is to know about electronic components and logic gates? Then
+        test your knowledge of electronic circuits in this unique contest.Face challenging
+        questions and prove your engineering skills.Create and debug intricate circuits based
+        on the problem statements given and prove your mettle in this incredible game of
+        circuits!
+    </string>
+
+    <!--RoboCup-->
+    <string name="robocup_event">ROBOCUP</string>
+    <string name="robocup1">OM M. KUMBHARE</string>
+    <string name="robocup1num"><b><u>+91-7385659671</u></b></string>
+    <string name="robocup2">PRASAD</string>
+    <string name="robocup2num"><b><u>+91-9156484926</u></b></string>
+    <string name="robocup3">HIMANSHU</string>
+    <string name="robocup3num"><b><u>+91-9411287469</u></b></string>
+    <string name="robocup_det">
+        Keep your eyes on the goal as we unfold an event where you build your own robots and go head
+        to head with teams across the country in a game of Robot Football! Get, Set, Goal!
+    </string>
+
+    <string name="title_activity_autobot">Autobot</string>
+    <string name="title_activity_mechatryst">Mechatryst</string>
+    <string name="title_activity_robo_sav">RoboSav</string>
+    <string name="title_activity_robo_wars">RoboWars</string>
+    <string name="title_activity_aqua_skylark">AquaSkylark</string>
+    <string name="title_activity_crepido">Crepido</string>
+    <string name="title_activity_devise">Devise</string>
+    <string name="title_activity_paradeigma">Paradeigma</string>
+    <string name="title_activity_turbo_flux">TurboFlux</string>
+    <string name="title_activity_baker_street">BakerStreet</string>
+    <string name="title_activity_freako_matrix">FreakoMatrix</string>
+    <string name="title_activity_game_sutra">GameSutra</string>
+    <string name="title_activity_informals">Informals</string>
+    <string name="title_activity_wall_street">WallStreet</string>
+    <string name="title_activity_boss">Boss</string>
+    <string name="title_activity_js">JS</string>
+    <string name="title_activity_dexter">Dexter</string>
+    <string name="title_activity_animazione">Animazione</string>
+    <string name="title_activity_cryptocrux">Cryptocrux</string>
+    <string name="title_activity_insomnia">Insomnia</string>
+    <string name="title_activity_posterolic">Posterolic</string>
+    <string name="new_user_register_here">New User? Register Here</string>
+    <string name="login">Login</string>
+    <string name="go_to_login_page">Go to login Page</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="college_name">Institution Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="name">Name</string>
+    <string name="year">Select Year</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="log">LOGIN</string>
+    <string name="sig">SIGNUP</string>
+    <string name="todo">TODO</string>
+    <string name="contact_name">NAME</string>
+    <string name="title_activity_temp__scroll">Temp_Scroll</string>
+    <string name="login_signup_txt">To register for the event please login or signup </string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+
+    <string name="spinner_title">Select Event</string>
+    <string name="title_activity_temp_maps">Map</string>
+    <string name="title_activity_brain_storm">BrainStorm</string>
+
+    <string name="title_activity_laser__litt">Laser_Litt</string>
+    <string name="title_activity_electro_blitz">ElectroBlitz</string>
+    <string name="no_registered_workshops">NO REGISTERED WORKSHOPS</string>
+    <string name="stay_tuned_for_workshops">Stay Tuned for Workshops</string>
+    <string name="title_activity_robo_cup">RoboCup</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="title_activity_ethical">EthicalActivity</string>
+
+    <string name="rules">RULES</string>
+    <string name="max_team_members">MAX TEAM MEMBERS</string>
+    <string name="problem_statement">PROBLEM STATEMENT</string>
+    <string name="details">DETAILS</string>
+
+    <string name="earthHour">AXIS organized a cycle rally in association with World Wildlife Fund (WWF) on 25th March 2017 on the occasion of Earth Hour to promote and encourage individuals, communities, and businesses to turn off non-essential electric lights for one hour, from 8:30 to 9:30 pm. The cycle rally was addressed by Hon\'ble Mayor Ms. Nanda Jichkar. </string>
+    <string name="energyDay"> Only when the last tree has died and the last river been poisoned and the last fish been caught will we realize we can\'t eat money.If conservation of energy goes wrong, nothing else will go right. AXIS organized an online campaign on 14th December 2017 to create awareness about the World Energy Conservation Day.</string>
+    <string name="donation"> Social responsibility is a moral principle of an entity. Observing the same, on the remarked day of Independence Day, 15th August 2017, AXIS 2017-18 organized a Blood Donation Camp, in association with Aarohi and Prayaas, the social club of VNIT. This righteous social initiative invited around 260 donors from all over Nagpur and GMC, IGMC and Super Speciality hospitals collected the blood. Thus, AXIS once again manifested its motive and endorsement towards a benevolent society.
+    </string>
+    <string name="title_activity_earth_hour">EarthHour</string>
+
+    <string name="title_activity_conservation">ConservationDay</string>
+    <string name="title_activity_blood_donatin">BloodDonatin</string>
+    <string name="talks">Talks</string>
+    <string name="guest_lectures">Guest Lectures</string>
+    <string name="current_updates">Current Updates</string>
+    <string name="title_activity_talk">TalkActivity</string>
+    <string name="venue">VENUE</string>
+    <string name="date">DATE</string>
+    <string name="time">TIME</string>
+    <string name="title_activity_ws">WSActivity</string>
+    <string name="link"><u>Link</u></string>
+    <string name="title_activity_events">EventsActivity</string>
+    <string name="please_validate_your_account_through_email_and_then_login">Please validate your account through email and then login</string>
+    <string name="go_to_login">Go to Login</string>
+    <string name="title_activity_attrac">AttracActivity</string>
+    <string name="title_activity_inaug">InaugActivity</string>
+    <string name="inaugration">Inauguration</string>
+    <string name="set_a"><u>Set A</u></string>
+    <string name="set_b"><u>Set B</u></string>
+    <string name="set_c"><u>Set C</u></string>
+    <string name="set_d"><u>Set D</u></string>
+    <string name="set_e"><u>Set E</u></string>
+    <string name="top_50"><u>Top 50</u></string>
+    <string name="title_activity_techi">TechiActivity</string>
+    <string name="title_activity_maps2">Map</string>
+
+</resources>
